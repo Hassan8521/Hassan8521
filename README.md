@@ -37,6 +37,8 @@ Fun fact: I like Steve Harvey shows.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
+![Dart](https://img.dart.io/badge/dart?style=for-the-badge&logo=dart&logoColor=ffdd54) 
+
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 
 # 📊GitHub Stats :
