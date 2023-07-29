@@ -1,6 +1,6 @@
 # 💫About Me :
 
-Currently i am working o my skills.
+Currently i am working of my skills.
 
 My area of interest is web development.
 
@@ -10,7 +10,7 @@ Reach at: laazizhassan11@gmail.com
 
 Pronoun: He/His
 
-Fun fact: I like Steve Harvey shows.
+Fun fact: I like Adventure .
 
 ## 🌐Socials
 
