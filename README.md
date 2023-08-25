@@ -2,7 +2,7 @@
 
 Currently i am working of my skills.
 
-My area of interest is web development.
+My area of interest is web development and Mobile App Development.
 
 Ask me about any tech-related stuff.
 
@@ -33,7 +33,7 @@ Fun fact: I like Adventure .
 # 💻Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![Flutter](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=flutter&logoColor=white) 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
